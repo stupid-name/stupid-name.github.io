@@ -1,0 +1,147 @@
+{
+  "partials" : [
+    {
+      "name" : "soft",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "systems",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "development",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "dev",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "technologies",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "tech",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "lab",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "apps",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "software",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "digital",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "agency",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "media",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "consulting",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "studio",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "network",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "mobile",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "design",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "expert",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "web",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "team",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "global",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "experience",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "pro",
+      "prefix" : false,
+      "postfix" : true
+    },
+
+    {
+      "name" : "corp",
+      "prefix" : false,
+      "postfix" : true
+    }
+  ]
+}
