@@ -137,6 +137,6 @@ gulp.task('prod',
   'MinifyJS',
   'setPrefixes',
   'minifyCSS',
-  'minifyHTML'
+  // 'minifyHTML'
   ]
 );
